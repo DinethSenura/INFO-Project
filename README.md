@@ -62,6 +62,4 @@ A simple MERN stack application that allows users to upload PDF files and view t
 - Upload PDF files from the home page.
 - View the uploaded PDFs.
 
-## License
 
-This project is licensed under the MIT License.
